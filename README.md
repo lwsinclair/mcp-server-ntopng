@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/marcoeg-mcp-server-ntopng-badge.jpg)](https://mseep.ai/app/marcoeg-mcp-server-ntopng)
+
 # mcp-server-ntopng
 [![PyPI - Version](https://img.shields.io/pypi/v/mcp-ntopng)](https://pypi.org/project/mcp-ntopng)
 
